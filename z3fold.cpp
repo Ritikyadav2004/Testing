@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream.h>
 
 void copyString(const char* src, char* dest) {
     while (*src != '\0') {
